@@ -1,0 +1,8 @@
+.wb{width:100%;display:block;padding:10px;text-align:center}
+.wb a{display:inline;margin:0 15px;padding:5px 10px;text-decoration:none}
+.wb a:hover{opacity:0.7}
+@media (max-width:640px) {
+    display: block;
+    max-width: 50%;
+    margin: 15px auto;
+}

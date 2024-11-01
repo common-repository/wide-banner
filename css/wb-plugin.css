@@ -1,0 +1,15 @@
+input[type="text"],input[type="color"]{height:30px;padding:4px}
+.explain{font-size:0.8em;font-style:italic;color:#555d66}
+.little{display:block;margin:15px 0;font-style: italic;color:#555d66}
+.error-form{border:1px solid #ff0000 !important}
+#form-message{display:block;padding:10px 0}
+.error{color:#ff0000}
+#form-valid{font-weight:bold;}
+.hide,.hideFull{display:none}
+.liste th{padding: 5px 15px;background-color: #000;color: #FFF;}
+.liste td{padding: 5px 15px;}
+.lineb td{background-color:#c7c4c4}
+.switchon,.deleteit{text-align:center}
+.info_update{font-style:italic;font-size:10px;color:#05bf0a}
+.deleteit span.delete, .deleteme{cursor:pointer;color:#ff0000;font-weight:bold}
+
